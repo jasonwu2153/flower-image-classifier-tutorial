@@ -11,6 +11,7 @@ numpy = "*"
 pillow = "*"
 tensorflow = "*"
 jupyterlab = "*"
+notebook = "*"
 
 [requires]
 python_version = "3.8"
