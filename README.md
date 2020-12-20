@@ -1,2 +1,2 @@
 # flower-image-classifier-tutorial
-Just my playground for following the TensorFlow image classifier tutorial.
+Just my playground for following the [TensorFlow Image Classifier Tutorial](https://www.tensorflow.org/tutorials/images/classification#import_tensorflow_and_other_libraries).
